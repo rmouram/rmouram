@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Machine Learning.
 - 📫 How to reach me ferreira.moura.maia@gmail.com
-- 🔬 Check the my better Data Science Project: https://github.com/rmouram/sales_prediction
+- 🔬 Check my best Data Science Project: https://github.com/rmouram/sales_prediction
 
 
 <!---
