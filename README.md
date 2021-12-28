@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Machine Learning.
 - 📫 How to reach me ferreira.moura.maia@gmail.com
+- 🔬 Check the my better Data Science Project: https://github.com/rmouram/sales_prediction
+
 
 <!---
 rmouram/rmouram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
