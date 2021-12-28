@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python: Data cleaning, feature engineering, analysis exploratory, machine learning(Create models, evaluate performance ...)
 - 📫 How to reach me ferreira.moura.maia@gmail.com
+- 📁 Portfolio page: https://rmouram.github.io/portifolio_projetos/
 - 🔬 Check my best Data Science Project: https://github.com/rmouram/sales_prediction
 
 
